@@ -11,7 +11,6 @@
 1. 主页面：可以完成内容（文字，图片等）的发布
 2. 有自己的个人主页栏
 
-代码仓库地址：https://github.com/Bearwwww/Footprint-web.git
+代码仓库地址：https://github.com/Bearwwww/footprint-applet
 
-
-
+后端仓库地址：https://github.com/wanfengcxz/footprint-server
